@@ -62,6 +62,6 @@
 	"types": "./dist/index.d.ts",
 	"type": "module",
 	"dependencies": {
-		"calpe": "^0.0.4"
+		"calpe": "^0.0.5"
 	}
 }
