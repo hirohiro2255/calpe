@@ -6,6 +6,11 @@
 	},
 	"license": "MIT",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hirohiro2255/calpe.git"
+	},
+	"homepage": "https://github.com/hirohiro2255/README.md",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
@@ -55,5 +60,8 @@
 	},
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"calpe": "^0.0.1"
+	}
 }
