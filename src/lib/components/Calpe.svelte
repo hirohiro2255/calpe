@@ -1,6 +1,4 @@
 <script lang="ts">
-	import '$lib/assets/sanitize.css';
-	import calc from '$lib/assets/calculator.svg';
 	let isFocused = false;
 
 	function onFocus() {
