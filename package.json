@@ -5,7 +5,7 @@
 		"name": "Hirokazu Hirono"
 	},
 	"license": "MIT",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/hirohiro2255/calpe.git"
@@ -62,6 +62,6 @@
 	"types": "./dist/index.d.ts",
 	"type": "module",
 	"dependencies": {
-		"calpe": "^0.0.2"
+		"calpe": "^0.0.3"
 	}
 }

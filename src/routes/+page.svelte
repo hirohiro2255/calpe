@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Calpe from 'calpe';
+	import Calpe from '$lib';
 </script>
 
 <Calpe />
